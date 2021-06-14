@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.pch
+.idea
+out
+.vs
